@@ -1,6 +1,4 @@
-# CONSEGNA
-
-### Attività richieste:
+## Attività richieste:
 
 - Fare il set up di JDK
 - Aggiungere le estensioni obbligatorie su VSCode
@@ -9,3 +7,9 @@
 - aggiungere la classe StampaSaluto
 - aggiungere il metodo main all’interno della classe appena creata
 - nel metodo main aggiungere l’espressione per stampare in console un messaggio di saluto
+
+## Bonus:
+
+- Sperimentare con il terminale e provare ad utilizzare comandi git per svolgere le medesime operazioni (aggiungere commit e pushare)
+
+_guida ultra-tascabile a git_: https://rogerdudler.github.io/git-guide/index.it.html
